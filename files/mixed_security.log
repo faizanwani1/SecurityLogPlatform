@@ -1,0 +1,33 @@
+Jan 17 06:00:00 server sshd: Failed password for root from 222.186.42.117 port 22
+Jan 17 06:00:02 server sshd: Failed password for root from 222.186.42.117 port 22
+Jan 17 06:00:04 server sshd: Failed password for root from 222.186.42.117 port 22
+Jan 17 06:00:06 server sshd: Failed password for root from 222.186.42.117 port 22
+Jan 17 06:00:08 server sshd: Failed password for root from 222.186.42.117 port 22
+Jan 17 06:05:00 server kernel: error segfault at 00000000 ip 00007f ip error 4
+Jan 17 06:10:00 server sshd: Accepted password for root from 10.0.0.1 port 22
+Jan 17 06:15:00 server sudo: error pam authentication failure for user www-data
+Jan 17 06:20:00 server mysql: Failed login for user root from 192.168.1.200
+Jan 17 06:20:03 server mysql: Failed login for user root from 192.168.1.200
+Jan 17 06:20:06 server mysql: Failed login for user root from 192.168.1.200
+Jan 17 06:25:00 server sshd: Accepted password for john from 10.0.0.5 port 22
+Jan 17 06:30:00 server sshd: Failed password for invalid user oracle from 116.31.116.52 port 22
+Jan 17 06:30:03 server sshd: Failed password for invalid user oracle from 116.31.116.52 port 22
+Jan 17 06:30:06 server sshd: Failed password for invalid user oracle from 116.31.116.52 port 22
+Jan 17 06:35:00 server kernel: warning memory usage high on eth0
+Jan 17 06:40:00 server nginx: error upstream connection refused from 10.0.0.99
+Jan 17 06:45:00 server sshd: Accepted password for alice from 192.168.0.50 port 22
+Jan 17 06:50:00 server sshd: Failed password for invalid user ftpuser from 89.248.167.131 port 22
+Jan 17 06:50:03 server sshd: Failed password for invalid user ftpuser from 89.248.167.131 port 22
+Jan 17 06:50:06 server sshd: Failed password for invalid user ftpuser from 89.248.167.131 port 22
+Jan 17 06:55:00 server sudo: error loading sudo rules for user apache
+Jan 17 07:00:00 server sshd: Accepted password for deploy from 10.0.0.20 port 22
+Jan 17 07:05:00 server auth: authentication failure for user guest from 5.188.86.172
+Jan 17 07:05:03 server auth: authentication failure for user guest from 5.188.86.172
+Jan 17 07:05:06 server auth: authentication failure for user guest from 5.188.86.172
+Jan 17 07:10:00 server sshd: Accepted password for bob from 10.0.0.8 port 22
+Jan 17 07:15:00 server kernel: error disk read failure on /dev/sda
+Jan 17 07:20:00 server sshd: Failed password for root from 185.176.27.132 port 22
+Jan 17 07:20:03 server sshd: Failed password for root from 185.176.27.132 port 22
+Jan 17 07:20:06 server sshd: Failed password for root from 185.176.27.132 port 22
+Jan 17 07:25:00 server sshd: session opened for user john from 10.0.0.5
+Jan 17 07:30:00 server sudo: error privilege escalation blocked for user www-data

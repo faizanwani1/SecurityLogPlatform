@@ -1,0 +1,30 @@
+Jan 16 08:00:01 webserver apache: Failed login attempt for user admin from 192.168.2.200
+Jan 16 08:00:03 webserver apache: Failed login attempt for user admin from 192.168.2.200
+Jan 16 08:00:05 webserver apache: Failed login attempt for user admin from 192.168.2.200
+Jan 16 08:00:07 webserver apache: Failed login attempt for user admin from 192.168.2.200
+Jan 16 08:01:00 webserver apache: Accepted login for user manager from 10.0.1.15
+Jan 16 08:05:00 webserver apache: Failed login attempt for user root from 77.88.99.11
+Jan 16 08:05:03 webserver apache: Failed login attempt for user root from 77.88.99.11
+Jan 16 08:05:06 webserver apache: Failed login attempt for user root from 77.88.99.11
+Jan 16 08:10:00 webserver apache: error invalid request from 66.55.44.33
+Jan 16 08:10:01 webserver apache: error invalid request from 66.55.44.33
+Jan 16 08:15:00 webserver apache: Accepted login for user john from 10.0.1.20
+Jan 16 08:20:00 webserver apache: Failed login attempt for invalid user superuser from 45.76.12.98
+Jan 16 08:20:02 webserver apache: Failed login attempt for invalid user superuser from 45.76.12.98
+Jan 16 08:20:04 webserver apache: Failed login attempt for invalid user superuser from 45.76.12.98
+Jan 16 08:25:00 webserver apache: Accepted login for user alice from 192.168.1.30
+Jan 16 08:30:00 webserver apache: warning unusual traffic from 103.21.244.0
+Jan 16 08:30:01 webserver apache: warning unusual traffic from 103.21.244.0
+Jan 16 08:35:00 webserver apache: Accepted password for root from 10.0.0.1 port 80
+Jan 16 08:40:00 webserver apache: error authentication failure for user dbadmin from 185.220.101.5
+Jan 16 08:40:03 webserver apache: error authentication failure for user dbadmin from 185.220.101.5
+Jan 16 08:40:06 webserver apache: error authentication failure for user dbadmin from 185.220.101.5
+Jan 16 08:45:00 webserver apache: Accepted login for user deploy from 10.0.1.50
+Jan 16 08:50:00 webserver apache: warning high request rate from 91.108.4.0
+Jan 16 08:55:00 webserver apache: Failed login attempt for user backup from 104.21.0.55
+Jan 16 08:55:03 webserver apache: Failed login attempt for user backup from 104.21.0.55
+Jan 16 08:55:06 webserver apache: Failed login attempt for user backup from 104.21.0.55
+Jan 16 09:00:00 webserver apache: Accepted login for user webmaster from 10.0.1.60
+Jan 16 09:05:00 webserver apache: error failed request from 192.0.2.100
+Jan 16 09:10:00 webserver apache: sudo error privilege escalation attempt from 172.16.5.5
+Jan 16 09:15:00 webserver apache: Accepted login for user analyst from 10.0.1.70

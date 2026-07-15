@@ -1,0 +1,30 @@
+Jan 19 00:00:01 server sshd: Failed password for root from 91.121.209.212 port 22
+Jan 19 00:00:03 server sshd: Failed password for root from 91.121.209.212 port 22
+Jan 19 00:00:05 server sshd: Failed password for root from 91.121.209.212 port 22
+Jan 19 00:00:07 server sshd: Failed password for root from 91.121.209.212 port 22
+Jan 19 00:05:00 server sshd: Failed password for invalid user admin from 91.121.209.212 port 22
+Jan 19 00:05:02 server sshd: Failed password for invalid user admin from 91.121.209.212 port 22
+Jan 19 00:05:04 server sshd: Failed password for invalid user admin from 91.121.209.212 port 22
+Jan 19 00:10:00 server sshd: Accepted password for john from 10.0.0.5 port 22
+Jan 19 00:15:00 server sudo: error pam authentication failure user www-data
+Jan 19 00:20:00 server sshd: Failed password for invalid user test from 185.220.101.34 port 22
+Jan 19 00:20:03 server sshd: Failed password for invalid user test from 185.220.101.34 port 22
+Jan 19 00:20:06 server sshd: Failed password for invalid user test from 185.220.101.34 port 22
+Jan 19 00:25:00 server sshd: Accepted password for alice from 192.168.0.50 port 22
+Jan 19 00:30:00 server sshd: Failed password for root from 194.165.16.11 port 22
+Jan 19 00:30:03 server sshd: Failed password for root from 194.165.16.11 port 22
+Jan 19 00:30:06 server sshd: Failed password for root from 194.165.16.11 port 22
+Jan 19 00:35:00 server sshd: Accepted password for root from 10.0.0.1 port 22
+Jan 19 00:40:00 server sudo: error sudo rules violation detected for apache
+Jan 19 00:45:00 server sshd: Failed password for invalid user support from 45.95.168.10 port 22
+Jan 19 00:45:03 server sshd: Failed password for invalid user support from 45.95.168.10 port 22
+Jan 19 00:45:06 server sshd: Failed password for invalid user support from 45.95.168.10 port 22
+Jan 19 00:50:00 server sshd: Accepted password for deploy from 10.0.0.20 port 22
+Jan 19 00:55:00 server auth: authentication failure for user ftp from 5.188.10.179
+Jan 19 00:55:03 server auth: authentication failure for user ftp from 5.188.10.179
+Jan 19 00:55:06 server auth: authentication failure for user ftp from 5.188.10.179
+Jan 19 01:00:00 server sshd: session opened for user john from 10.0.0.5
+Jan 19 01:05:00 server sshd: Accepted password for bob from 10.0.0.8 port 22
+Jan 19 01:10:00 server sshd: Failed password for root from 209.141.38.197 port 22
+Jan 19 01:10:03 server sshd: Failed password for root from 209.141.38.197 port 22
+Jan 19 01:10:06 server sshd: Failed password for root from 209.141.38.197 port 22

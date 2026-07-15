@@ -1,0 +1,25 @@
+Jan 18 09:00:00 server sshd: Failed password for admin from 103.99.115.50 port 22
+Jan 18 09:00:03 server sshd: Failed password for admin from 103.99.115.50 port 22
+Jan 18 09:00:06 server sshd: Failed password for admin from 103.99.115.50 port 22
+Jan 18 09:00:09 server sshd: Failed password for admin from 103.99.115.50 port 22
+Jan 18 09:05:00 server sshd: Accepted password for john from 10.0.0.5 port 22
+Jan 18 09:10:00 server sshd: Failed password for invalid user pi from 192.168.5.100 port 22
+Jan 18 09:10:03 server sshd: Failed password for invalid user pi from 192.168.5.100 port 22
+Jan 18 09:10:06 server sshd: Failed password for invalid user pi from 192.168.5.100 port 22
+Jan 18 09:15:00 server sshd: Accepted password for root from 172.16.0.5 port 22
+Jan 18 09:20:00 server sudo: error pam sudo authentication failure
+Jan 18 09:25:00 server sshd: Failed password for root from 61.177.172.13 port 22
+Jan 18 09:25:03 server sshd: Failed password for root from 61.177.172.13 port 22
+Jan 18 09:25:06 server sshd: Failed password for root from 61.177.172.13 port 22
+Jan 18 09:30:00 server sshd: Accepted password for alice from 192.168.0.50 port 22
+Jan 18 09:35:00 server auth: Failed login for user postgres from 10.10.10.50
+Jan 18 09:35:03 server auth: Failed login for user postgres from 10.10.10.50
+Jan 18 09:35:06 server auth: Failed login for user postgres from 10.10.10.50
+Jan 18 09:40:00 server sshd: session opened for user alice from 192.168.0.50
+Jan 18 09:45:00 server sshd: Failed password for invalid user ubuntu from 45.142.212.100 port 22
+Jan 18 09:45:03 server sshd: Failed password for invalid user ubuntu from 45.142.212.100 port 22
+Jan 18 09:45:06 server sshd: Failed password for invalid user ubuntu from 45.142.212.100 port 22
+Jan 18 09:50:00 server sshd: Accepted password for deploy from 10.0.0.20 port 22
+Jan 18 09:55:00 server kernel: warning high cpu usage detected on server
+Jan 18 10:00:00 server sshd: Accepted password for bob from 10.0.0.8 port 22
+Jan 18 10:05:00 server sudo: error loading shared library on sudo call
